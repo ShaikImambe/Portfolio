@@ -126,6 +126,7 @@
   font-size: 1.6rem;
   color: #d3e2e7;
   margin-bottom: 0.5rem;
+  padding-left: 51px;
 }
 .text h3:hover{
     color: #ff0080;
@@ -135,6 +136,7 @@
   font-size: 3rem;
   color:#ff0080;
   margin-bottom: 1rem;
+  padding-left: 50px;
 }
 .text .h1:hover{
     color: #0984e3 ;
